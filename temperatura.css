@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+    color: black;
+}
+label{
+background-color: blueviolet;
+color: aliceblue;
+
+}
+
+input, body{
+    background-color: aliceblue;
+    color: black;
+}
